@@ -24,6 +24,8 @@ namespace ProjectCadmium.Model.Configuration
             Property(qv => qv.CreationDate)
             .IsRequired();
 
+            Property(qv => qv.CreatedById)
+            .IsOptional();
         }
     }
 }

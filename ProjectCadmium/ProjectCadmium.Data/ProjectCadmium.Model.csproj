@@ -109,6 +109,10 @@
     <Compile Include="Migrations\201905221527349_ChangeTaskRelation.Designer.cs">
       <DependentUpon>201905221527349_ChangeTaskRelation.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201905222015521_TurnOffSomeCasadeDelete.cs" />
+    <Compile Include="Migrations\201905222015521_TurnOffSomeCasadeDelete.Designer.cs">
+      <DependentUpon>201905222015521_TurnOffSomeCasadeDelete.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -132,6 +136,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201905221527349_ChangeTaskRelation.resx">
       <DependentUpon>201905221527349_ChangeTaskRelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905222015521_TurnOffSomeCasadeDelete.resx">
+      <DependentUpon>201905222015521_TurnOffSomeCasadeDelete.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

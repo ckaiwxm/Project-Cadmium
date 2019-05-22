@@ -26,7 +26,8 @@ namespace ProjectCadmium.Model.Configuration
 
             HasMany(u => u.QuoteVersionList)
             .WithRequired(qv => qv.CreatedBy)
-            .HasForeignKey(qv => qv.CreatedById);
+            .HasForeignKey(qv => qv.CreatedById)
+            .WillCascadeOnDelete(false);
         }
     }
 }
