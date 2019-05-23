@@ -1,0 +1,12 @@
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\obj\Debug\ProjectCadmiumConsole.csprojAssemblyReference.cache
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\obj\Debug\ProjectCadmiumConsole.csproj.CoreCompileInputs.cache
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\ProjectCadmiumConsole.exe.config
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\ProjectCadmiumConsole.exe
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\ProjectCadmiumConsole.pdb
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\EntityFramework.dll
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\EntityFramework.xml
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\obj\Debug\ProjectCadmiumConsole.csproj.CopyComplete
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\obj\Debug\ProjectCadmiumConsole.exe
+C:\projects\ProjectCadmium\ProjectCadmiumConsole\ProjectCadmiumConsole\obj\Debug\ProjectCadmiumConsole.pdb
