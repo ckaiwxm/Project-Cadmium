@@ -6,8 +6,8 @@ namespace ProjectCadmium.Model.DomainClass
 {
     public class Quote : BaseEntity
     {
-        public Guid PublishVersion { get; set; }
-        public decimal NewPricePerHour { get; set; }
+        public Guid? PublishVersion { get; set; }
+        public decimal? NewPricePerHour { get; set; }
 
         public virtual ICollection<QuoteVersion> QuoteVersionList { get; set; }
         public virtual ICollection<Payment> PaymentList { get; set; }

@@ -6,7 +6,7 @@ namespace ProjectCadmium.Model.DomainClass
 {
     public class User : BaseEntity
     {
-        public Guid PublishVersion { get; set; }
+        public Guid? PublishVersion { get; set; }
         public bool IsActive { get; set; }
         public DateTime LastLoginTimestamp { get; set; }
 
